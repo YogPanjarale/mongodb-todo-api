@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+# hey if you are a human reading this, please hit me up on twitter @yogpanjarale or visit my website at https://www.yogpanjarale.com for more info 👍
+# also a salute to you for visiting this page
